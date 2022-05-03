@@ -1,0 +1,24 @@
+body{
+    background-image: linear-gradient(6.03deg, rgb(218, 205, 255) 2%, rgba(218, 205, 255, 0) 46.89%);
+    background-color: rgb(255, 234, 238);
+   
+  }
+ hr{
+   
+   border-style: none;
+   border-top-style: dotted;
+   border-color: grey;
+   border-width: 3px;
+   width: 100%;
+   
+ }
+
+ h1{
+     color: #00AFC1;
+ }
+ h3{
+     color: #1A3C40;
+ }
+ .submit{
+   color: #00AFC1;
+ }
